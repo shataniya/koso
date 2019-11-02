@@ -1,0 +1,22 @@
+{
+  "name": "koso",
+  "version": "1.0.0",
+  "description": "This is a tool library similar to jquery",
+  "main": "koso.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shataniya/koso.git"
+  },
+  "keywords": [
+    "koso"
+  ],
+  "author": "sataniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shataniya/koso/issues"
+  },
+  "homepage": "https://github.com/shataniya/koso#readme"
+}
